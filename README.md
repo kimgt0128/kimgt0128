@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=timeAuto&height=250&section=header&text=Welcom to 
-Jyden's Git Hub&fontSize=90&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=shark&color=timeAuto&height=250&section=header&text=Welcom%to%
+Jyden's%Git%Hub&fontSize=90&theme=radical)
 <!--
 **kimgt0128/kimgt0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
