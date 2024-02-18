@@ -10,7 +10,8 @@
 
 # 🔗링크
 
-# Status
+# Recent
+## GitHub
 ## Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgt0128)](https://solved.ac/kimgt0128)
