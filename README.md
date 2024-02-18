@@ -4,7 +4,7 @@
 
 
 
-# 📝 Currently studing
+# 📝 Currently studying
 - React
 - React 클린코드
 - node js
