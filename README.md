@@ -10,7 +10,7 @@ tSize=35&animation=twinkling)
 
 # Recent
 ### 💻 GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgt0128&show_icons=true&bg_color=00000000)
 
 ### 🥇 Solved.ac
 [![Solved.ac
