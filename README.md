@@ -13,7 +13,7 @@
 
 # status
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgt0128)](https://solved.ac/{kimgt0128})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgt0128)](https://solved.ac/kimgt0128)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimgt0128)](https://solved.ac/kimgt0128)
 
