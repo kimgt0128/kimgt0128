@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&animation=twinkling)
-
+tSize=35&animation=twinkling)
 # 🗂️ Projects
 - 학술 동아리 소개 페이지 만들기
 
@@ -11,10 +10,16 @@
 
 # Recent
 ### 💻 GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kimgt0128=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 ### 🥇 Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgt0128)](https://solved.ac/kimgt0128)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimgt0128&theme=cold)
+
+# 📒 Blog
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://wondrous-developer.tistory.com)
+
 
 # 🔗 Contact
 
