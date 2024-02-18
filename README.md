@@ -20,7 +20,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgt0128)](https://solved.ac/kimgt0128)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimgt0128&theme=cold)
 
-# 📒 Blog
+# 📒DEV's log
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wondrous-developer&theme=default)](https://wondrous-developer.tistory.com)
 
 
