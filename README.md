@@ -3,10 +3,13 @@
 - 학술 동아리 소개 페이지 만들기
 
 
+
 # 📝 Currently studing
 - React
 - React 클린코드
 - node js
+
+
 
 # 🆕 Recent
 ### 💻 GitHub [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -19,6 +22,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgt0128)](https://solved.ac/kimgt0128)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimgt0128&theme=cold)
+
+
 
 # 📒DEV's log
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wondrous-developer&theme=default)](https://wondrous-developer.tistory.com)
