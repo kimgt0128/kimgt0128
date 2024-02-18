@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&animation=twinkling)
+
 # 🗂️ Projects
 - 학술 동아리 소개 페이지 만들기
 
