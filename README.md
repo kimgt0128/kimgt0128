@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&an&imation=blink)
-# 🗂️Projects
+# 🗂️ Projects
 - 학술 동아리 소개 페이지 만들기
+
+
+# 🤔currently studing
+- React
+- node js
+- 
+
+# status
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimgt0128)](https://solved.ac/kimgt0128)
 
 
 - 🔭 I’m currently working on ...
