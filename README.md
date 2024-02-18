@@ -18,7 +18,7 @@ tSize=35&animation=twinkling)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimgt0128&theme=cold)
 
 # 📒 Blog
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://wondrous-developer.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name}&postId={insert_postId}&theme={insert_theme})](https://github.com/loosie/github-readme-tistory-card)
 
 
 # 🔗 Contact
