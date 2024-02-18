@@ -5,8 +5,11 @@
 
 # 🤔currently studing
 - React
+- React 클린코드
 - node js
-- 
+
+# 🔗링크
+
 
 # status
 [![Solved.ac
