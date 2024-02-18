@@ -21,7 +21,8 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimgt0128&theme=cold)
 
 # 📒 Blog
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=wondrous-developer&postId={insert_postId}&theme={insert_theme})](https://wondrous-developer.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wondrous-developer&theme=default)](https://wondrous-developer.tistory.com)
+
 
 # 🔗 Contact
 
