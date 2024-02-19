@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&animation=twinkling)
 # 🗂️ Projects
-- [*EC_page*]([www.naver.com](https://github.com/Endless-Creation-Official/EC_page)) - 서울과학기술대학교 학술 동아리 Endless-Creation 소개 페이지
+- [*EC_page*](https://github.com/Endless-Creation-Official/EC_page) - 서울과학기술대학교 학술 동아리 Endless-Creation 소개 페이지
 
 
 
