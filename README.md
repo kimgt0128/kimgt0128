@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&animation=twinkling)
 # 🗂️ Projects
 - [*EC_page*](https://github.com/Endless-Creation-Official/EC_page) - 서울과학기술대학교 학술 동아리 Endless-Creation 소개 페이지
+- [민원안내 GUI 어플리케이션](https://github.com/kimgt0128/GUI_App) - 구청에서 효율적인 민원 안내를 위한 GUI 어플리케이션
 
 
 
 # 📝 Currently studying
 - React
+- Java OOP
 - React 클린코드
 - node js
 
