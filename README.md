@@ -30,7 +30,7 @@
 
 
 # 📒DEV's log
-![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wondrous-developer)](https://wondrous-developer.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wondrous-developer)](https://wondrous-developer.tistory.com)
 
 
 # 🔗 Contact
