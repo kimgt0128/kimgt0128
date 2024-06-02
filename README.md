@@ -6,11 +6,10 @@
 
 
 # 📝 Currently studying
+- [Spring Study](https://github.com/kimgt0128/spring-tutorial-1-board-) - 스프링부트를 이용한 게시판 기능 구현하기
 - [Algorithm Study](https://github.com/kimgt0128/Algorithm_Study/tree/main) - 스터디 팀원들을 이끌며 문제 풀이 방법 토론 스터디
 - React
 - Java OOP
-- React 클린코드
-- node js
 
 
 
