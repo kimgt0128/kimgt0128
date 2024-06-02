@@ -22,8 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimgt0128&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🥇 Solved.ac
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgt0128)](https://solved.ac/kimgt0128)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgt0128)](https://solved.ac/kimgt0128)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimgt0128&theme=cold)
 
 
