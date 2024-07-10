@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&animation=twinkling)
 # 🗂️ Projects
 - [*EC_page*](https://github.com/Endless-Creation-Official/EC_page) - 서울과학기술대학교 학술 동아리 Endless-Creation 소개 페이지
+- [*EC_Backend*](https://github.com/foreco-ibaji/Wiz-Server/blob/develop/README.md) - 서울과학기술대학교 학술 동아리 Endless-Creation 백엔드 서버
 - [민원안내 GUI 어플리케이션](https://github.com/kimgt0128/GUI_App) - 구청에서 효율적인 민원 안내를 위한 GUI 어플리케이션
 
 
