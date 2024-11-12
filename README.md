@@ -7,10 +7,11 @@
 
 
 # 📝 Currently studying
-- [Spring Study](https://github.com/kimgt0128/spring-tutorial-1-board-) - 스프링부트를 이용한 게시판 CRUD 기능 구현하기
 - [Algorithm Study](https://github.com/kimgt0128/Algorithm_Study/tree/main) - 스터디 팀원들을 이끌며 문제 풀이 방법 토론 스터디
 - [Java OOP](https://github.com/kimgt0128/Java_study/tree/main/%EA%B9%80%EA%B2%BD%ED%83%9C) - 여러 예제들을 구현하며 Java의 OOP를 익히는 스터디
-- React
+- [Spring Study](https://github.com/kimgt0128/spring-tutorial-1-board-) - 스프링부트를 이용한 간단한 게시판 CRUD 기능 구현하기
+- [Spring Board Web Service](https://github.com/kimgt0128/board_web_service) - 소셜 로그인 기능이 포함된 게시판 구현 실습
+- [Spring Security 6.3.4 Hands On](https://github.com/kimgt0128/security-hands-on-Spring-boot-3) - 스프링 시큐리티 6.3.4 버전을 익히며 회원 관리 기능 실습
 
 
 
