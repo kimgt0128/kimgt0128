@@ -12,6 +12,7 @@
 - [Spring Study](https://github.com/kimgt0128/spring-tutorial-1-board-) - 스프링부트를 이용한 간단한 게시판 CRUD 기능 구현하기
 - [Spring Board Web Service](https://github.com/kimgt0128/board_web_service) - 소셜 로그인 기능이 포함된 게시판 구현 실습
 - [Spring Security 6.3.4 Hands On](https://github.com/kimgt0128/security-hands-on-Spring-boot-3) - 스프링 시큐리티 6.3.4 버전을 익히며 회원 관리 기능 실습
+- [Spring Security 6.3.4 JWT Hands On](https://github.com/kimgt0128/security-jwt-honds-on-Spring-boot-3/issues/1) - 스프링 시큐리티 JWT 방식 인즈을 익히며 회원 관리 기능 실습
 
 
 
