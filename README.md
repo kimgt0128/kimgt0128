@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&animation=twinkling)
 # 🗂️ Projects
 - [*EC_page*](https://github.com/Endless-Creation-Official/EC_page) - 서울과학기술대학교 학술 동아리 Endless-Creation 소개 페이지
-- [*EC_Backend*](https://github.com/kimgt0128/EC_BackendService) - 서울과학기술대학교 학술 동아리 Endless-Creation 간단한 지원 기능
+- [*EC_Backend*](https://github.com/kimgt0128/EC_BackendService) - 서울과학기술대학교 학술 동아리 Endless-Creation 간단한 지원 API V1
+- [*EC Apply_final*](https://github.com/kimgt0128/EC_apply_final) - 동아리 지원 API V2
 - [민원안내 GUI 어플리케이션](https://github.com/kimgt0128/GUI_App) - 구청에서 효율적인 민원 안내를 위한 GUI 어플리케이션
 
 
@@ -13,7 +14,7 @@
 - [Spring Board Web Service](https://github.com/kimgt0128/board_web_service) - 소셜 로그인 기능이 포함된 게시판 구현 실습
 - [Spring Security 6.3.4 Hands On](https://github.com/kimgt0128/security-hands-on-Spring-boot-3) - 스프링 시큐리티 6.3.4 버전을 익히며 회원 관리 기능 실습
 - [Spring Security 6.3.4 JWT Hands On](https://github.com/kimgt0128/security-jwt-honds-on-Spring-boot-3/issues/1) - 스프링 시큐리티 JWT방식 인증을 공부하며 회원 관리 기능 실습
-- [EC Apply_final](https://github.com/kimgt0128/EC_apply_final) - 동아리 지원 API
+- [EC Apply_final](https://github.com/kimgt0128/EC_apply_final) - 동아리 지원 API V2
 
 
 
