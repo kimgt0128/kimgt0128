@@ -4,6 +4,7 @@
 - [*EC Apply_final*](https://github.com/kimgt0128/EC_apply_final) - 동아리 지원 API V2
 - [*Cleopatra guseokguseok*](https://github.com/Likelion-13th-hackathon-cleopatra/likelion-13th-hackathon-cleopatra-backend) - 멋쟁이 사자처럼 대학 13기 연합 해커톤 프로젝트
 - [*Endless passion sig:AI server*](https://github.com/Endless-Passion/sig-ai-server) - 서울과학기술대학교 학술동아리 EC 교내 해커톤 프로젝트
+- [*Seoultech likelion homeplage v2*](https://github.com/LIKELION-SEOULTECH/snut-likelion-server-v2) - 서울과학기술대학교 멋쟁이 사자처럼 홈페이지 제작 프로젝트
 
 
 # 📝 Currently studying
