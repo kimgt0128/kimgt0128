@@ -2,8 +2,8 @@
 # 🗂️ Projects
 - [*EC_page*](https://github.com/Endless-Creation-Official/EC_page) - 서울과학기술대학교 학술 동아리 Endless-Creation 소개 페이지
 - [*EC Apply_final*](https://github.com/kimgt0128/EC_apply_final) - 동아리 지원 API V2
-- [*Cleopatra guseokguseok*] (https://github.com/Likelion-13th-hackathon-cleopatra/likelion-13th-hackathon-cleopatra-backend) - 멋쟁이 사자처럼 대학 13기 연합 해커톤 프로젝트
-- [*Endless passion sig:AI server*] (https://github.com/Endless-Passion/sig-ai-server) - 서울과학기술대학교 학술동아리 EC 교내 해커톤 프로젝트
+- [*Cleopatra guseokguseok*](https://github.com/Likelion-13th-hackathon-cleopatra/likelion-13th-hackathon-cleopatra-backend) - 멋쟁이 사자처럼 대학 13기 연합 해커톤 프로젝트
+- [*Endless passion sig:AI server*](https://github.com/Endless-Passion/sig-ai-server) - 서울과학기술대학교 학술동아리 EC 교내 해커톤 프로젝트
 
 
 # 📝 Currently studying
