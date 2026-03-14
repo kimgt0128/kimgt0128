@@ -1,8 +1,8 @@
 name: Update Blog Posts
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정 실행
-  workflow_dispatch: # 수동 실행 가능
+    - cron: '0 0 * * *' # 매일 자정(UTC) 실행
+  workflow_dispatch: # 수동 실행 버튼 활성화
   push:
     branches:
       - main
@@ -14,16 +14,21 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+          
       - name: Install dependencies
         run: pip install feedparser
-      - name: Update README
+        
+      - name: Update README with blog posts
         run: python .github/scripts/update_blog.py
-      - name: Push changes
+        
+      - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update blog posts" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: Update latest blog posts" && git push)

@@ -32,9 +32,11 @@
 
 
 
-# 📒DEV's log
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wondrous-developer)](https://wondrous-developer.tistory.com)
+# 📒 DEV's log
 
+<br/>
+
+> 💡 **[wondrous-developer.tistory.com](https://wondrous-developer.tistory.com)** 에서 더 많은 개발 기록을 확인하실 수 있습니다.
 
 # 🔗 Contact
 
