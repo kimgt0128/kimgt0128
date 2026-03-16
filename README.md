@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&fontAlignY=40)
 ## 🗂️ Projects
-- *EC* [*client*](https://github.com/Endless-Creation-Official/EC_page),  [*server*](https://github.com/kimgt0128/EC_apply_final) - 서울 과학기술대학교 학술동아리 Endless Creation 페이지
+- *EC* [*client*](https://github.com/sEndless-Creation-Official/EC_page),  [*server*](https://github.com/kimgt0128/EC_apply_final) - 서울 과학기술대학교 학술동아리 Endless Creation 페이지
 - *아기방명록* [*client*](https://github.com/LIKELION-SEOULTECH/BabyGuestbook),  [*server*](https://github.com/LIKELION-SEOULTECH/BabyGuestbook-Back) - 서울 과학기술대학교 멋쟁이 사자처럼 **13**기 공통 개발 세션 '아기사자 방명록'
 - [*구석구석*](https://github.com/Likelion-13th-hackathon-cleopatra/likelion-13th-hackathon-cleopatra-backend) - 서울과학기술대학교 멋쟁이 사자처럼 대학 **13**기 중앙 해커톤 '클레오빡돌아'팀 '창업 예정자를 위한 지역 상권 분석 서비스'
 - [*Sig:AI*](https://github.com/Endless-Passion/sig-ai-server) - 서울과학기술대학교 학술동아리 EC 해커톤 Endless Passion팀 '자영업자 폐업 확률 분석 및 운영 전략 제시' 서비스
