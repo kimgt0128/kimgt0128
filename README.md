@@ -1,5 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&fontAlignY=40)
 
+## 🛠️ Tech Stack
+
+**Language**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Framework**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**DB / Infra**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 ## 🗂️ Projects
 - *EC* [*client*](https://github.com/sEndless-Creation-Official/EC_page),  [*server*](https://github.com/kimgt0128/EC_apply_final) - 서울 과학기술대학교 학술동아리 Endless Creation 페이지
 - *아기방명록* [*client*](https://github.com/LIKELION-SEOULTECH/BabyGuestbook),  [*server*](https://github.com/LIKELION-SEOULTECH/BabyGuestbook-Back) - 서울 과학기술대학교 멋쟁이 사자처럼 **13**기 공통 개발 세션 '아기사자 방명록'
@@ -8,7 +28,7 @@
 - [*Likelion Seoultech page v2*](https://github.com/LIKELION-SEOULTECH/snut-likelion-server-v2) - 서울과학기술대학교 멋쟁이 사자처럼 대학 **13**기 홈페이지
 - [*AnimalFace*](https://github.com/LIKELION-SEOULTECH/snut-likelion-server-v2) - 서울과학기술대학교 멋쟁이 사자처럼 **14**기 개발 공통 세션 '동물상 찾기'
 ## 📝 Currently studying
-- [*Algo 풀자*](https://github.com/kimgt0128/Algorithm_Study/tree/main) - 매일 풀며 기록하는 알고리즘적 사고 향상시키기
+- [*Algo 풀자*](https://github.com/kimgt0128/day_algorithm) - 매일 풀며 기록하는 알고리즘적 사고 향상시키기
 - [*Java OOP*](https://github.com/kimgt0128/Java_study/tree/main/%EA%B9%80%EA%B2%BD%ED%83%9C) - Java 예제와 함께 익히는 OOP
 - *Hands On SpringBoot*([CRUD](https://github.com/kimgt0128/spring-tutorial-1-board-) && [게시판](https://github.com/kimgt0128/board_web_service)) - SpringBoot로 직접 구현하며 배우는 RestAPI와 게시판
 - *Hands On Spring Security*([Seseion](https://github.com/kimgt0128/security-hands-on-Spring-boot-3/issues/1) && [JWT](https://github.com/kimgt0128/security-jwt-honds-on-Spring-boot-3/issues/1) && [OAuth2 - Session](https://github.com/kimgt0128/security-oauth2-sesion-honds-on-Spring-boot-3/issues/1) && [OAuth2 - JWT](https://github.com/kimgt0128/security-6-oauth2-JWT-hands-on-Spring-boot-3)) - 직접 구현하며 배우는 Spring Security 6.3.4 세션, 토큰, OAuth2

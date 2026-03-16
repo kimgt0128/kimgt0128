@@ -66,9 +66,8 @@ def update_readme(readme_path, table_content):
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-  # ⭐ [수정된 부분] 빈 문자열("") 대신 아래 태그를 넣으세요
-    start_marker = " "
-    end_marker = " "
+    start_marker = "<!-- BLOG_START -->"  # ← README.md에 넣은 것과 완전히 동일해야 함
+    end_marker = "<!-- BLOG_END -->"
     
     start_idx = content.find(start_marker)
     end_idx = content.find(end_marker)
