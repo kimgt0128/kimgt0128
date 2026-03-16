@@ -21,13 +21,11 @@ def get_thumbnail(entry):
         img_match = re.search(r'<img[^>]+src="([^"]+)"', entry.description)
         if img_match:
             return img_match.group(1)
-    # 이미지 없을 때 사용할 기본 이미지
     return "https://github.com/user-attachments/assets/9ffcad01-a362-4ad3-b3eb-f648be5d75de"
 
 def format_date(date_str):
     """날짜 형식 변환 (YYYY.MM.DD)"""
     try:
-        # 티스토리 RSS 날짜 형식 처리
         date_obj = datetime.strptime(date_str, '%a, %d %b %Y %H:%M:%S %z')
         return date_obj.strftime('%Y.%m.%d')
     except:
@@ -65,26 +63,29 @@ def update_readme(readme_path, table_content):
     """마커 사이의 내용을 업데이트"""
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
-    
-    start_marker = "<!-- BLOG_START -->"  # ← README.md에 넣은 것과 완전히 동일해야 함
-    end_marker = "<!-- BLOG_END -->"
-    
+
+    start_marker = "<!-- BLOG_START -->"  # ✅ README.md와 완전히 동일
+    end_marker = "<!-- BLOG_END -->"      # ✅ README.md와 완전히 동일
+
     start_idx = content.find(start_marker)
     end_idx = content.find(end_marker)
-    
-    # 마커를 찾았을 때만 업데이트 진행
-    if start_idx != -1 and end_idx != -1:
-        new_content = (
-            content[:start_idx + len(start_marker)] +
-            "\n" + table_content + "\n" +
-            content[end_idx:]
-        )
-        with open(readme_path, 'w', encoding='utf-8') as f:
-            f.write(new_content)
-        print("✅ README.md updated successfully!")
-    else:
-        # ⭐ [변경 포인트 2] 마커를 못 찾았을 때 에러 메시지 출력하도록 보완
-        print(f"❌ 마커를 찾을 수 없습니다: {start_marker} 또는 {end_marker}")
+
+    # ✅ 마커 못 찾으면 즉시 종료 (맨 위에 쓰는 버그 방지)
+    if start_idx == -1 or end_idx == -1:
+        print(f"❌ 마커를 찾을 수 없습니다! README.md에 아래 두 줄이 있는지 확인하세요.")
+        print(f"   {start_marker}")
+        print(f"   {end_marker}")
+        exit(1)
+
+    new_content = (
+        content[:start_idx + len(start_marker)] +
+        "\n" + table_content + "\n" +
+        content[end_idx:]
+    )
+
+    with open(readme_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
+    print("✅ README.md updated successfully!")
 
 if __name__ == "__main__":
     RSS_FEED_URL = "https://wondrous-developer.tistory.com/rss"
