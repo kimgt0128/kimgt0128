@@ -27,6 +27,7 @@ def get_thumbnail(entry):
 def format_date(date_str):
     """날짜 형식 변환 (YYYY.MM.DD)"""
     try:
+        # 티스토리 RSS 날짜 형식 처리
         date_obj = datetime.strptime(date_str, '%a, %d %b %Y %H:%M:%S %z')
         return date_obj.strftime('%Y.%m.%d')
     except:
@@ -43,21 +44,19 @@ def create_blog_table(feed_url, max_posts=6):
         row_entries = entries[i:i+3]
         row = "|"
         for entry in row_entries:
-            thumbnail = get_thumbnail(entry)
-            title = entry.title
-            link = entry.link
-            description = clean_html(entry.get('description', ''))[:50] + '...'
-            pub_date = format_date(entry.get('published', ''))
-            
-            # 카드 디자인 구성
-            cell = f'<a href="{link}"><img src="{thumbnail}" width="300" height="200" alt="{title}"></a><br/>' \
-                   f'**[{title}]({link})**<br/>{description}<br/>{pub_date}'
-            row += f" {cell} |"
+            if entry:
+                thumbnail = get_thumbnail(entry)
+                title = entry.title
+                link = entry.link
+                description = clean_html(entry.get('description', ''))[:50] + '...'
+                pub_date = format_date(entry.get('published', ''))
+                
+                cell = f'<a href="{link}"><img src="{thumbnail}" width="300" height="200" alt="{title}"></a><br/>' \
+                       f'**[{title}]({link})**<br/>{description}<br/>{pub_date}'
+                row += f" {cell} |"
+            else:
+                row += " |"
         
-        # 3개 미만일 경우 빈 셀 채우기
-        while len(row_entries) < 3:
-            row += " |"
-            row_entries.append(None)
         table += row + "\n"
         
     return table
@@ -67,13 +66,14 @@ def update_readme(readme_path, table_content):
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # 수정된 부분: 마커 이름 지정
+    # ⭐ [변경 포인트 1] 빈 문자열("")에서 실제 마커 이름으로 수정됨
     start_marker = ""
     end_marker = ""
     
     start_idx = content.find(start_marker)
     end_idx = content.find(end_marker)
     
+    # 마커를 찾았을 때만 업데이트 진행
     if start_idx != -1 and end_idx != -1:
         new_content = (
             content[:start_idx + len(start_marker)] +
@@ -84,7 +84,8 @@ def update_readme(readme_path, table_content):
             f.write(new_content)
         print("✅ README.md updated successfully!")
     else:
-        print("❌ Could not find markers in README.md")
+        # ⭐ [변경 포인트 2] 마커를 못 찾았을 때 에러 메시지 출력하도록 보완
+        print(f"❌ 마커를 찾을 수 없습니다: {start_marker} 또는 {end_marker}")
 
 if __name__ == "__main__":
     RSS_FEED_URL = "https://wondrous-developer.tistory.com/rss"

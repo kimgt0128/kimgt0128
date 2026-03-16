@@ -1,23 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Welcome%20to%20Jyden's%20GitHub%20⚡&fontSize=35&animation=twinkling)
 ## 🗂️ Projects
-- [*EC_page*](https://github.com/Endless-Creation-Official/EC_page) - 서울과학기술대학교 학술 동아리 Endless-Creation 소개 페이지
-- [*EC Apply_final*](https://github.com/kimgt0128/EC_apply_final) - 동아리 지원 API V2
-- [*Cleopatra guseokguseok*](https://github.com/Likelion-13th-hackathon-cleopatra/likelion-13th-hackathon-cleopatra-backend) - 멋쟁이 사자처럼 대학 13기 연합 해커톤 프로젝트
-- [*Endless passion sig:AI server*](https://github.com/Endless-Passion/sig-ai-server) - 서울과학기술대학교 학술동아리 EC 교내 해커톤 프로젝트
-- [*Seoultech likelion homeplage v2*](https://github.com/LIKELION-SEOULTECH/snut-likelion-server-v2) - 서울과학기술대학교 멋쟁이 사자처럼 홈페이지 제작 프로젝트
-
-
+- *EC* [*client*](https://github.com/Endless-Creation-Official/EC_page),  [*server*](https://github.com/kimgt0128/EC_apply_final) - 서울 과학기술대학교 학술동아리 Endless Creation 페이지
+- *아기방명록* [*client*](https://github.com/LIKELION-SEOULTECH/BabyGuestbook),  [*server*](https://github.com/LIKELION-SEOULTECH/BabyGuestbook-Back) - 서울 과학기술대학교 멋쟁이 사자처럼 **13**기 공통 개발 세션 '아기사자 방명록'
+- [*구석구석*](https://github.com/Likelion-13th-hackathon-cleopatra/likelion-13th-hackathon-cleopatra-backend) - 서울과학기술대학교 멋쟁이 사자처럼 대학 **13**기 중앙 해커톤 '클레오빡돌아'팀 '창업 예정자를 위한 지역 상권 분석 서비스'
+- [*Sig:AI*](https://github.com/Endless-Passion/sig-ai-server) - 서울과학기술대학교 학술동아리 EC 해커톤 Endless Passion팀 '자영업자 폐업 확률 분석 및 운영 전략 제시' 서비스
+- [*Likelion Seoultech page v2*](https://github.com/LIKELION-SEOULTECH/snut-likelion-server-v2) - 서울과학기술대학교 멋쟁이 사자처럼 대학 **13**기 홈페이지
+- [*AnimalFace*](https://github.com/LIKELION-SEOULTECH/snut-likelion-server-v2) - 서울과학기술대학교 멋쟁이 사자처럼 **14**기 개발 공통 세션 '동물상 찾기'
 ## 📝 Currently studying
-- [Algorithm Study](https://github.com/kimgt0128/Algorithm_Study/tree/main) - 스터디 팀원들을 이끌며 문제 풀이 방법 토론 스터디
-- [Java OOP](https://github.com/kimgt0128/Java_study/tree/main/%EA%B9%80%EA%B2%BD%ED%83%9C) - 여러 예제들을 구현하며 Java의 OOP를 익히는 스터디
-- [Spring Study](https://github.com/kimgt0128/spring-tutorial-1-board-) - 스프링부트를 이용한 간단한 게시판 CRUD 기능 실습
-- [Spring Board Web Service](https://github.com/kimgt0128/board_web_service) - 소셜 로그인 기능이 포함된 게시판 구현 실습
-- [Spring Security 6.3.4 Hands On](https://github.com/kimgt0128/security-hands-on-Spring-boot-3) - 스프링 시큐리티 6.3.4 버전을 익히며 회원 관리 기능 실습
+- [*Algo 풀자*](https://github.com/kimgt0128/Algorithm_Study/tree/main) - 매일 풀며 기록하는 알고리즘적 사고 향상시키기
+- [*Java OOP*](https://github.com/kimgt0128/Java_study/tree/main/%EA%B9%80%EA%B2%BD%ED%83%9C) - Java 예제와 함께 익히는 OOP
+- *Hands On SpringBoot*([CRUD](https://github.com/kimgt0128/spring-tutorial-1-board-) && [게시판](https://github.com/kimgt0128/board_web_service)) - SpringBoot로 직접 구현하며 배우는 RestAPI와 게시판
+- *Hands On Spring Security*([Seseion](https://github.com/kimgt0128/security-hands-on-Spring-boot-3/issues/1) && [JWT](https://github.com/kimgt0128/security-jwt-honds-on-Spring-boot-3/issues/1) && [OAuth2 - Session](https://github.com/kimgt0128/security-oauth2-sesion-honds-on-Spring-boot-3/issues/1) && [OAuth2 - JWT](https://github.com/kimgt0128/security-6-oauth2-JWT-hands-on-Spring-boot-3)) - 직접 구현하며 배우는 Spring Security 6.3.4 세션, 토큰, OAuth2
 - [Spring Security 6.3.4 JWT Hands On](https://github.com/kimgt0128/security-jwt-honds-on-Spring-boot-3/issues/1) - 스프링 시큐리티 JWT방식 인증을 공부하며 회원 관리 기능 실습
-- [스프링 시큐리티 전반적인 공부](https://github.com/Back-end-Security/OAuth2-Jwt-authentication)
-
-
-
+- [*스프링 시큐리티 톺아보기*](https://github.com/Back-end-Security/OAuth2-Jwt-authentication) - 역할과 책임 관점으로 파헤치는 Spring Security (**진행 중**)
+- [*NoSQL 데이터베이스 톺아보기*](https://github.com/LIKELION-SEOULTECH/BE-Session1) - Spring Data MongoDB의 쿼리 연산자, MongoTemplate을 구현하며 익히는 MongoDB 연동 및 문서 지향(Document-oriented) 데이터 모델링 (**진행 중**)
+- *웹소켓 톱아보기*([STOMP Protocol](https://github.com/kimgt0128/websocket-study) && [RabbitMQ](https://github.com/kimgt0128/spring-stomp-rebbitmq-chating-practice)) - 채팅을 구현하며 배우는 인메모리 브로커의 문제점과 외부 메시지 큐(RabbitMQ)의 특징 (**진행 중**)
+- [*선착순 쿠폰 발급 시스템 톺아보기*](https://github.com/LIKELION-SEOULTECH/BE-SESSION_FINAL) - Distributed Lock과 Message Queue를 구현하며 배우는 동시성 문제 (**진행 중**)
 ## 🆕 Recent
 ### 💻 GitHub 
 
