@@ -66,9 +66,9 @@ def update_readme(readme_path, table_content):
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # ⭐ [변경 포인트 1] 빈 문자열("")에서 실제 마커 이름으로 수정됨
-    start_marker = ""
-    end_marker = ""
+  # ⭐ [수정된 부분] 빈 문자열("") 대신 아래 태그를 넣으세요
+    start_marker = " "
+    end_marker = " "
     
     start_idx = content.find(start_marker)
     end_idx = content.find(end_marker)
