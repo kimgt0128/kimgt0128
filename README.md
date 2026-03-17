@@ -27,7 +27,7 @@
 - [*구석구석*](https://github.com/Likelion-13th-hackathon-cleopatra/likelion-13th-hackathon-cleopatra-backend) - 서울과학기술대학교 멋쟁이 사자처럼 대학 **13**기 중앙 해커톤 '클레오빡돌아'팀 '창업 예정자를 위한 지역 상권 분석 서비스'
 - [*Sig:AI*](https://github.com/Endless-Passion/sig-ai-server) - 서울과학기술대학교 학술동아리 EC 해커톤 Endless Passion팀 '자영업자 폐업 확률 분석 및 운영 전략 제시' 서비스
 - [*Likelion Seoultech page v2*](https://github.com/LIKELION-SEOULTECH/snut-likelion-server-v2) - 서울과학기술대학교 멋쟁이 사자처럼 대학 **13**기 홈페이지
-- [*AnimalFace*](https://github.com/LIKELION-SEOULTECH/snut-likelion-server-v2) - 서울과학기술대학교 멋쟁이 사자처럼 **14**기 개발 공통 세션 '동물상 찾기'
+- [*AnimalFace*](https://github.com/LIKELION-SEOULTECH/animal-face-server) - 서울과학기술대학교 멋쟁이 사자처럼 **14**기 개발 공통 세션 '동물상 찾기'
 ## 📝 Currently studying
 - [*Algo 풀자*](https://github.com/kimgt0128/day_algorithm) - 매일 풀며 기록하는 알고리즘적 사고 향상시키기
 - [*Java OOP*](https://github.com/kimgt0128/Java_study/tree/main/%EA%B9%80%EA%B2%BD%ED%83%9C) - Java 예제와 함께 익히는 OOP
