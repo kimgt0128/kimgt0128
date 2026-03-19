@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=즐겁게%20%20일하는%20개발자가%20되고%20싶습니다&fontSize=35&fontAlignY=40)
 
 ## About me
- - [서울과학기술대학교 학술 동아리 EC 회장, 운영진](https://endless-creation.netlify.app/) ((2022.03 ~ )) 
-  - [Amazon 공식 대학 클라우드 동아리 AWS Cloud Club](https://builder.aws.com/community/cloud-clubs) ((2022.03 ~ )) 
+ - [Endless Creation](https://endless-creation.netlify.app/) ((2022.03 ~ )) - 서울과학기술대학교 학술 동아리
+  - [ACC Seoultech 2nd](https://builder.aws.com/community/cloud-clubs) ((2022.03 ~ )) - Amazon 공식 대학 클라우드 동아리 AWS Cloud Club
  
-- [대학 연합 IT 창업 동아리 서울과학기술대학교 멋쟁이 사자처럼 ](https://www.seoultech-likelion.com/) 13기 아기사자 (2025)  , 14기 운영진 (2026.01 ~ )
-- [Seoultech Univ. CIEL Lab Student URA](https://ciel.seoultech.ac.kr/index.do) (2025.12 ~ )
+- [Seoultech Likelion 13th, 14th](https://www.seoultech-likelion.com/) (2026.01 ~ ) -  대학 연합 IT 창업 동아리 13기 아기사자 (2025), 14기 운영진
+- [Seoultech Univ. CIEL Lab Student URA](https://ciel.seoultech.ac.kr/index.do) (2025.12 ~ ) - 서울과학기술대학교 통신 및 지능 연구실
 
 ## Awards
 - 2025 서울과학기술대학교 동아리 연합 해커톤 우수상
