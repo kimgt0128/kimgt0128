@@ -1,18 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=즐겁게%20%20일하는%20개발자가%20되고%20싶습니다&fontSize=35&fontAlignY=40)
 
-## Tech
-**Language**
+## About me
+- 서울과학기술대학교 학술 동아리 EC (2022.03 ~ )
+- Seoultech Univ. CIEL Lab (2025.12 ~ )
+- 서울과학기술대학교 멋쟁이 사자처럼 대학 13기 아기사자 (2025)  , 14기 운영진 (2026.01 ~ )
 
+## Awards
+- 2025 서울과학기술대학교 동아리 연합 해커톤 우수상
+
+## Tech
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Framework**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-**DB / Infra**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
