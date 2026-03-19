@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=즐겁게%20%20일하는%20개발자가%20되고%20싶습니다&fontSize=35&fontAlignY=40)
 
 ## About me
-- 서울과학기술대학교 학술 동아리 EC (2022.03 ~ )
-- Seoultech Univ. CIEL Lab (2025.12 ~ )
-- 서울과학기술대학교 멋쟁이 사자처럼 대학 13기 아기사자 (2025)  , 14기 운영진 (2026.01 ~ )
+ - [서울과학기술대학교 학술 동아리 EC](https://endless-creation.netlify.app/) ((2022.03 ~ )) 
+- [Seoultech Univ. CIEL Lab Student URA](https://ciel.seoultech.ac.kr/index.do) (2025.12 ~ )
+- [대학 연합 IT 창업 동아리 서울과학기술대학교 멋쟁이 사자처럼 ](https://www.seoultech-likelion.com/) 13기 아기사자 (2025)  , 14기 운영진 (2026.01 ~ )
 
 ## Awards
 - 2025 서울과학기술대학교 동아리 연합 해커톤 우수상
