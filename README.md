@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=즐겁게%20%20일하는%20개발자가%20되고%20싶습니다&fontSize=35&fontAlignY=40)
 
 ## About me
- - [Endless Creation](https://endless-creation.netlify.app/) ((2022.03 ~ )) - 서울과학기술대학교 학술 동아리
-  - [ACC Seoultech 2nd](https://builder.aws.com/community/cloud-clubs) ((2022.03 ~ )) - Amazon 공식 대학 클라우드 동아리 AWS Cloud Club
- 
-- [Seoultech Likelion 13th, 14th](https://www.seoultech-likelion.com/) (2026.01 ~ ) -  대학 연합 IT 창업 동아리 13기 아기사자 (2025), 14기 운영진
-- [Seoultech Univ. CIEL Lab Student URA](https://ciel.seoultech.ac.kr/index.do) (2025.12 ~ ) - 서울과학기술대학교 통신 및 지능 연구실
+ - [*Endless Creation*](https://endless-creation.netlify.app/) - 서울과학기술대학교 학술 동아리 (2022.03 ~ )
+  - [*ACC Seoultech 2nd*](https://builder.aws.com/community/cloud-clubs) - Amazon 공식 대학 클라우드 동아리 AWS Cloud Club (2022.03 ~ 2022.12)
+- [*Seoultech Likelion Univ.* 13th, 14th](https://www.seoultech-likelion.com/) - [멋쟁이 사자처럼](https://likelion.university/) 공식 지원 대학 연합 IT 창업 동아리 '멋사 대학 서울과학기술대학교' 13기 아기사자 (2025), 14기 운영진 (2026 ~)
+- [*Seoultech Univ. CIEL Lab Student URA*](https://ciel.seoultech.ac.kr/index.do) - 서울과학기술대학교 통신 및 지능 연구실 (2025.12 ~ )
 
 ## Awards
 - 2025 서울과학기술대학교 동아리 연합 해커톤 우수상
@@ -28,7 +27,7 @@
 
 
 ## Projects
-- *EC* [*client*](https://github.com/sEndless-Creation-Official/EC_page),  [*server*](https://github.com/kimgt0128/EC_apply_final) - 서울 과학기술대학교 학술동아리 Endless Creation 페이지
+- *EC*  [*server*](https://github.com/kimgt0128/EC_apply_final) - 서울 과학기술대학교 학술동아리 Endless Creation 페이지
 - *아기방명록* [*client*](https://github.com/LIKELION-SEOULTECH/BabyGuestbook),  [*server*](https://github.com/LIKELION-SEOULTECH/BabyGuestbook-Back) - 서울 과학기술대학교 멋쟁이 사자처럼 **13**기 공통 개발 세션 '아기사자 방명록'
 - [*구석구석*](https://github.com/Likelion-13th-hackathon-cleopatra/likelion-13th-hackathon-cleopatra-backend) - 서울과학기술대학교 멋쟁이 사자처럼 대학 **13**기 중앙 해커톤 '클레오빡돌아'팀 '창업 예정자를 위한 지역 상권 분석 서비스'
 - [*Sig:AI*](https://github.com/Endless-Passion/sig-ai-server) - 서울과학기술대학교 학술동아리 EC 해커톤 Endless Passion팀 '자영업자 폐업 확률 분석 및 운영 전략 제시' 서비스
@@ -37,6 +36,8 @@
 ## Currently studying
 - [*Algo 풀자*](https://github.com/kimgt0128/day_algorithm) - 매일 풀며 기록하는 알고리즘적 사고 향상시키기
 - [*Java OOP*](https://github.com/kimgt0128/Java_study/tree/main/%EA%B9%80%EA%B2%BD%ED%83%9C) - Java 예제와 함께 익히는 OOP
+
+- [*AWS Cloud Study*](https://triangular-selenium-d8e.notion.site/ACC-SeoulTech-2nd-11ae19dd866a80d7ab64f882233f7816?source=copy_link) - AWS의 다양한 클라우드 서비스를 실습해보며 'CLF-C02 Certification' 획득
 - *Hands On SpringBoot*([CRUD](https://github.com/kimgt0128/spring-tutorial-1-board-) && [게시판](https://github.com/kimgt0128/board_web_service)) - SpringBoot로 직접 구현하며 배우는 RestAPI와 게시판
 - *Hands On Spring Security*([Seseion](https://github.com/kimgt0128/security-hands-on-Spring-boot-3/issues/1) && [JWT](https://github.com/kimgt0128/security-jwt-honds-on-Spring-boot-3/issues/1) && [OAuth2 - Session](https://github.com/kimgt0128/security-oauth2-sesion-honds-on-Spring-boot-3/issues/1) && [OAuth2 - JWT](https://github.com/kimgt0128/security-6-oauth2-JWT-hands-on-Spring-boot-3)) - 직접 구현하며 배우는 Spring Security 6.3.4 세션, 토큰, OAuth2
 
